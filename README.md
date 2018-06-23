@@ -10,6 +10,6 @@ This is very interesting. Just writing something here ...
   <body>
 <h1>Testing this out</h1>
   <p>Does anything happen at all if I do this as html??</p>
-    <a href="www.wikipedia.com" target="_blank">Wikipedia Link</a>
+    <a href="www.wikipedia.org" target="_blank">Wikipedia Link</a>
   </body>
 </head>
